@@ -9,18 +9,18 @@ Translations:
 
 ## What is it?
 
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to Google software engineer.
+This is my multi-month study plan to learn new stuff and brush up on things I already know. Right now I want to be have some deep intuitive knowledge on computing and programming. This is it. My plan. I'll be doing this whenever I have spare time. My goal is to be done with it by the end of the year.
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
+This plan is based of off [Jwasham's plan](https://github.com/jwasham/google-interview-university).
+
+![OK got it!](https://i.ytimg.com/vi/jnqvg43Jug4/maxresdefault.jpg)
 
 This long list has been extracted and expanded from **Google's coaching notes**, so these are the things you need to know.
-There are extra items I added at the bottom that may come up in the interview or be helpful in solving a problem. Many items are from
+There are extra items Jwasham added at the bottom that may come up in the interview or be helpful in solving a problem. Many items are from
 Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" and are reflected
 sometimes word-for-word in Google's coaching notes.
 
-I've pared down what you need to know from what Yegge recommends. I've altered Yegge's requirements 
-from information received from my contact at Google. This is meant for **new software engineers** or those switching from 
-software/web development to software engineering (where computer science knowledge is required). If you have 
+Yegge's requirements have been altered based on Jwasham's contact at Google. This is meant for **new software engineers** or those switching from software/web development to software engineering (where computer science knowledge is required). If you have 
 many years of experience and are claiming many years of software engineering experience, expect a harder interview. 
 [Read more here](https://googleyasheck.com/what-you-need-to-know-for-your-google-interview-and-what-you-dont/).
 
@@ -36,8 +36,6 @@ If you want to be a reliability engineer or systems engineer, study more from th
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
-- [Get in a Googley Mood](#get-in-a-googley-mood)
-- [Did I Get the Job?](#did-i-get-the-job)
 - [Follow Along with Me](#follow-along-with-me)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Google](#about-google)
@@ -201,31 +199,19 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-## Get in a Googley Mood
-
-Print out a "[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)" sign (or two) and keep your eyes on the prize.
-
-[![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
-
-## Did I Get the Job?
-
-I'm in the queue right now. Hope to interview soon.
-
-    Thanks for the referral, JP.
-
 ## Follow Along with Me
 
-My story: [Why I Studied Full-Time for 8 Months for a Google Interview](https://medium.com/@googleyasheck/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
+I'll be updating my story at my [blog](http://saitamasensei.angstrom.co.ke/)
+
+Feel free to ask me any questions on [Quora](https://www.quora.com/profile/Bonface-Kilz-Munyoki)
 
 I'm on the journey, too. Follow along:
  
-- **Blog**: [GoogleyAsHeck.com](https://googleyasheck.com/)
-- Twitter: [@googleyasheck](https://twitter.com/googleyasheck)
-- Twitter: [@StartupNextDoor](https://twitter.com/StartupNextDoor)
-- Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)
-- LinkedIn: [johnawasham](https://www.linkedin.com/in/johnawasham)
+- **Blog**: [SaitamaSensie](http://saitamasensei.angstrom.co.ke)
+- Twitter: [@BonfaceKilz](https://twitter.com/BonfaceKilz)
+- Quora: [BonfaceKilz](https://www.quora.com/profile/Bonface-Kilz-Munyoki)
 
-![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
+![Google University](http://1pun.ch/img/goofysmile.png)
 
 ## Don't feel you aren't smart enough
 - Google engineers are smart, but many have an insecurity that they aren't smart enough, even though they work at Google.
