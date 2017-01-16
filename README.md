@@ -207,7 +207,7 @@ Feel free to ask me any questions on [Quora](https://www.quora.com/profile/Bonfa
 
 I'm on the journey, too. Follow along:
  
-- **Blog**: [SaitamaSensie](http://saitamasensei.angstrom.co.ke)
+- **Blog**: [SaitamaSensei](http://saitamasensei.angstrom.co.ke)
 - Twitter: [@BonfaceKilz](https://twitter.com/BonfaceKilz)
 - Quora: [BonfaceKilz](https://www.quora.com/profile/Bonface-Kilz-Munyoki)
 
@@ -221,17 +221,17 @@ I'm on the journey, too. Follow along:
 ## About Google
 
 - [X] For students - [Google Careers: Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-- [ ] How Search Works:
+- [X] How Search Works:
     - [X] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
     - [X] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
     - [X] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
     - [X] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
     - [X] [How Google makes improvements to its search algorithm (video)](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
 - [ ] Series:
-    - [ ] [How Google Search Dealt With Mobile](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
-    - [ ] [Google's Secret Study To Find Out Our Needs](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
-    - [ ] [Google Search Will Be Your Next Brain](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
-    - [ ] [The Deep Mind Of Demis Hassabis](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
+    - [X] [How Google Search Dealt With Mobile](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
+    - [X] [Google's Secret Study To Find Out Our Needs](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
+    - [X] [Google Search Will Be Your Next Brain](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
+    - [X] [The Deep Mind Of Demis Hassabis](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
 - [ ] [Book: How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
 - [ ] [Made by Google announcement - Oct 2016 (video)](https://www.youtube.com/watch?v=q4y0KOeXViI)
 
@@ -265,7 +265,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
 
 - [ ] Additional (not suggested by Google but I added):
-    - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+    - [X] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
     - [ ] [Four Steps To Google Without A Degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
     - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
     - [ ] [How Google Thinks About Hiring, Management And Culture](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
